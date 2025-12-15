@@ -1,6 +1,7 @@
-<img 
-  src="logo-samso.png" 
-  alt="Samsó Abogados | Abogados laboralistas en Barcelona"
-  class="logo"
-/>
-
+<div class="logo-container">
+  <img 
+    src="logo-samso.png" 
+    alt="Samsó Abogados, despacho de abogados en Barcelona especializado en Derecho Laboral y Seguridad Social"
+    class="logo"
+  />
+</div>
